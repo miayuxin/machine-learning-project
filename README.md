@@ -21,7 +21,7 @@ data visualization, time series forcasting, model development, and model perform
 6. Baseball players' salary prediction; regularization
 - Use lasso & ridge regularization to predict salary for a baseball player, clearly explain the output of the regularized models (specifically, those variables that have been shrunk and why).
 
-7. Time series forecasting — ARIMA model
+7. Time series forecasting — Arima model
 - Analyze 2 data sets, predict the values for the next 8 time periods and the subsequent 7 years (with confidence intervals), and 
 make 3 observations about the data (i.e., describe its composition and characteristics).
 
