@@ -44,7 +44,3 @@ The summary of each project as below.
 10. CTR Values Prediction; Time Series Models
 
 - Develop Moving Average, Exponential Smoothing, Autoregressive and ARIMA model to forecast CTR (click through rate), and identify which model performs best. 
-
-
-
-
