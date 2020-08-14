@@ -34,15 +34,20 @@ I built and compared the classification models for predicting the potential cust
 For instance, the model development process of one of the models - Random Forest as below:
 ![Alt text](https://github.com/miayuxin/machine-learning-project/blob/master/Telco%20customer%20churn%20prediction/Image/rf_process.png)
 
-## Result 
+Top 10 important features of Random Forest:
+![Alt text](https://github.com/miayuxin/machine-learning-project/blob/master/Telco%20customer%20churn%20prediction/Image/rf_feature%20importance.png)
 
+## Conclusion 
 
+#### Customer churn
+Discovered Random Forest performed best with the highest AUC score 86% among all models.
+![Alt text](https://github.com/miayuxin/machine-learning-project/blob/master/Telco%20customer%20churn%20prediction/Image/AUC%20score.png)
 
+Construct the partial dependence plot to see the relationship between the churn and the predictor is linear, monotonic or more complex.
+![Alt text](https://github.com/miayuxin/machine-learning-project/blob/master/Telco%20customer%20churn%20prediction/Image/pdp.png)
 
+#### Customer life-time value prediction
+The result shows that Mean Square Error for Ridge Regression is the lowest, which is 3,378. 
+Thus, Ridge Regression is the best model to predict customer life-time value.
+![Alt text](https://github.com/miayuxin/machine-learning-project/blob/master/Telco%20customer%20churn%20prediction/Image/MSE.png)
 
-## Customer life-time value prediction
-
-
-
-
-## Conslusion 
