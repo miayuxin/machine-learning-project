@@ -18,7 +18,7 @@ Provide the best model that has achieved the highest AUC value for a company to 
 ## Dataset
 
 This IBM sample dataset has information about telco customers, and if they left the company within the last month (churn).
-  The data set contains informations about Telco customers where each row represents a unique customers and the columns are informations regarding customers’services.
+The data set contains informations about Telco customers where each row represents a unique customers and the columns are informations regarding customers’services.  
 There are a total of 7,032 customers in the dataset among which 1,869 left within the last month.
 With a churn rate that high, i.e 26.58%, Telco may run out of customers in the coming months if no action is taken.
 
