@@ -43,7 +43,6 @@ Top 10 important features of Random Forest:
 Discovered Random Forest performed best with the highest AUC score 86% among all models.
 ![Alt text](https://github.com/miayuxin/machine-learning-project/blob/master/Telco%20customer%20churn%20prediction/Image/AUC%20score.png)
 
-Construct the partial dependence plot to see the relationship between the churn and the predictor is linear, monotonic or more complex.
 ![Alt text](https://github.com/miayuxin/machine-learning-project/blob/master/Telco%20customer%20churn%20prediction/Image/pdp.png)
 
 #### Customer life-time value prediction
