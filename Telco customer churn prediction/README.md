@@ -18,24 +18,25 @@ Provide the best model that has achieved the highest AUC value for a company to 
 ## Dataset
 
 This IBM sample dataset has information about telco customers, and if they left the company within the last month (churn).
-Each row represents a unique costumer, while the columns contains information about customer’s services, account and demographic data.
-Includes information about:
-- Customers who left within the last month – Churn.
-- Services that each customer has signed up for – phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies
-- Customer account information:
-how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges.
-- Demographic info about customers:
-gender, age range, and if they have partners and dependents.
+The data set contains informations about Telco customers where each row represents a unique customers and the columns are informations regarding customers’services.
+There are a total of 7,032 customers in the dataset among which 1,869 left within the last month.
+With a churn rate that high, i.e 26.58%, Telco may run out of customers in the coming months if no action is taken.
 
 ## Problem Definition
 
-
+- What are the factors influent the churn?
+- How to predict the churn, and customer life-time values?
 
 ## Models development  
 
+I built and compared the classification models for predicting the potential customer churn, including Logistic Regression, Decision Tree, KNN Classifier, and Random Forest.
 
+For instance, the model development process of one of the models - Random Forest as below:
+![Alt text](https://github.com/miayuxin/machine-learning-project/blob/master/Telco%20customer%20churn%20prediction/Image/rf_process.png)
 
 ## Result 
+
+
 
 
 
