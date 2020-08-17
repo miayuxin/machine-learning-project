@@ -57,6 +57,6 @@ The R squared value is 0.90 (means 90% of the variability in y - price can be ex
 
 ![image](https://github.com/miayuxin/machine-learning-project/blob/master/Rental%20price%20prediction%20/Image/Ballina%20Shire%20Council.png)
 
-#### XGBoosting Model for Ballina Shire Council
+#### XGBoosting Model for Tweed Shire Council
 
 ![image](https://github.com/miayuxin/machine-learning-project/blob/master/Rental%20price%20prediction%20/Image/gradient%20boosting.png)
